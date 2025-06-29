@@ -1,0 +1,24 @@
+{
+  "name": "bracket-engineer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "Wes Bos (https://wesbos.com/)",
+  "license": "MIT",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@jscadui/3mf-export": "^0.5.0",
+    "@types/three": "^0.176.0",
+    "manifold-3d": "^3.0.1",
+    "three": "^0.176.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "vite": "^6.3.3"
+  }
+}
